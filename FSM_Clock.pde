@@ -1,10 +1,8 @@
 //Inspired by Example Clock from: http://processing.org/examples/clock.html
-//Serial time output added by Forrest Lee Erickson Sep 26, 2014.
-//Modified to send time out in a formate similar to Rice Lakes Continious Scale
-//Add IP stream on port 10002
+//Modified with a background image by Forrest Lee Erickson April 20, 2015.
 //Clock background FSM.
 //Free to copy. Crediting me would be nice but not neccessary.
-
+//May you be touched.
 
 
 //Global Variable Decleration.
